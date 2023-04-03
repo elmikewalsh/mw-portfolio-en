@@ -3,7 +3,7 @@
     <title>EN - yo walsh!</title>
     <link href="https://en.yowalsh.com/feed.xml" rel="self" />
     <link href="https://en.yowalsh.com" />
-    <updated>2023-03-30T09:49:45-03:00</updated>
+    <updated>2023-04-03T18:00:32-04:00</updated>
     <author>
         <name>Yo Walsh</name>
     </author>
@@ -19,7 +19,7 @@
         <media:content url="https://en.yowalsh.com/media/posts/41/publii-trans-1-2.png" medium="image" />
             <category term="See Delightful Designs"/>
 
-        <updated>2023-03-30T09:48:40-03:00</updated>
+        <updated>2023-04-03T18:00:32-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://en.yowalsh.com/media/posts/41/publii-trans-1-2.png" alt="iMac image with Publii logo on screen." />
@@ -40,7 +40,7 @@
 <p>The translation of the code was completed in <a href="https://www.sublimetext.com/" target="_blank" rel="noopener noreferrer">Sublime Text</a>.</p>
 </li>
 </ul>
-<p class="align-center"><a href="https://github.com/elmikewalsh/Publii-ui-locales/raw/main/downloads/0.41.1/es-cl.zip" target="_blank" rel="noopener noreferrer" class="btn btn--outline">Publii 0.41.1 Spanish Language Pack</a></p>
+<p class="align-center"><a href="https://github.com/GetPublii/Publii-ui-locales/blob/main/downloads/0.42.0/es-cl.zip" target="_blank" rel="noopener noreferrer" class="btn btn--outline">Publii 0.42.0 Spanish Language Pack</a></p>
             ]]>
         </content>
     </entry>
