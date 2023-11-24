@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>2024-EN-yowalsh!</title>
-    <link href="https://en.yowalsh.com/feed.xml" rel="self" />
-    <link href="https://en.yowalsh.com" />
+    <link href="https://work.elmikewalsh.com/feed.xml" rel="self" />
+    <link href="https://work.elmikewalsh.com" />
     <updated>2023-11-24T09:07:10-04:00</updated>
     <author>
         <name>Yo Walsh</name>
     </author>
-    <id>https://en.yowalsh.com</id>
+    <id>https://work.elmikewalsh.com</id>
 
     <entry>
         <title>Publii CMS: Spanish Translation</title>
         <author>
             <name>Yo Walsh</name>
         </author>
-        <link href="https://en.yowalsh.com/publii-cms-spanish-translation/"/>
-        <id>https://en.yowalsh.com/publii-cms-spanish-translation/</id>
-        <media:content url="https://en.yowalsh.com/media/posts/41/publii-trans-1.png" medium="image" />
+        <link href="https://work.elmikewalsh.com/publii-cms-spanish-translation/"/>
+        <id>https://work.elmikewalsh.com/publii-cms-spanish-translation/</id>
+        <media:content url="https://work.elmikewalsh.com/media/posts/41/publii-trans-1.png" medium="image" />
             <category term="Delightful Designs"/>
 
         <updated>2023-11-24T09:07:10-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://en.yowalsh.com/media/posts/41/publii-trans-1.png" class="type:primaryImage" alt="iMac image with Publii logo on screen." /></p>
+                    <p><img src="https://work.elmikewalsh.com/media/posts/41/publii-trans-1.png" class="type:primaryImage" alt="iMac image with Publii logo on screen." /></p>
                 <h3>Ongoing Spanish Translation For Publii CMS</h3>
 <p>I have recently had multiple projects based on <a href="https://getpublii.com/" target="_blank" rel="noopener noreferrer">Publii CMS</a>. Publii is an amazing program that makes it easy to create and manage your website. The developer community has also provided a number of translations. However, one of Publii's previous limitations was the lack of a complete Spanish translation. So, I took it upon myself to fill in the blank.</p>
-<figure class="post__image"><img loading="lazy"  src="https://en.yowalsh.com/media/posts/41/publii-trans-2.png" alt="Two iMac screens with coding and Publii logo." width="1200" height="675" sizes="100vw" srcset="https://en.yowalsh.com/media/posts/41/responsive/publii-trans-2-xs.webp 300w ,https://en.yowalsh.com/media/posts/41/responsive/publii-trans-2-sm.webp 480w ,https://en.yowalsh.com/media/posts/41/responsive/publii-trans-2-md.webp 768w ,https://en.yowalsh.com/media/posts/41/responsive/publii-trans-2-lg.webp 1024w ,https://en.yowalsh.com/media/posts/41/responsive/publii-trans-2-xl.webp 1360w ,https://en.yowalsh.com/media/posts/41/responsive/publii-trans-2-2xl.webp 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://work.elmikewalsh.com/media/posts/41/publii-trans-2.png" alt="Two iMac screens with coding and Publii logo." width="1200" height="675" sizes="100vw" srcset="https://work.elmikewalsh.com/media/posts/41/responsive/publii-trans-2-xs.webp 300w ,https://work.elmikewalsh.com/media/posts/41/responsive/publii-trans-2-sm.webp 480w ,https://work.elmikewalsh.com/media/posts/41/responsive/publii-trans-2-md.webp 768w ,https://work.elmikewalsh.com/media/posts/41/responsive/publii-trans-2-lg.webp 1024w ,https://work.elmikewalsh.com/media/posts/41/responsive/publii-trans-2-xl.webp 1360w ,https://work.elmikewalsh.com/media/posts/41/responsive/publii-trans-2-2xl.webp 1600w"></figure>
 <p>Over the course of a month, I reviewed and translated more than 1,300 lines of code into Spanish, both for the main program and for the text editor (theme translations may come at a future date).</p>
 <p>Once this was finished I submitted the merge request from my <a href="https://www.github.com/elmikewalsh" target="_blank" rel="noopener noreferrer">Github</a>, which was accepted at the start of the new year.</p>
 <p>If you are interested, you can click the button below to download the latest Spanish language pack for Publii CMS.</p>
@@ -45,20 +45,20 @@
         <author>
             <name>Yo Walsh</name>
         </author>
-        <link href="https://en.yowalsh.com/minimalist-site-for-chilean-professor/"/>
-        <id>https://en.yowalsh.com/minimalist-site-for-chilean-professor/</id>
-        <media:content url="https://en.yowalsh.com/media/posts/40/2023-go-1-2.webp" medium="image" />
+        <link href="https://work.elmikewalsh.com/minimalist-site-for-chilean-professor/"/>
+        <id>https://work.elmikewalsh.com/minimalist-site-for-chilean-professor/</id>
+        <media:content url="https://work.elmikewalsh.com/media/posts/40/2023-go-1-2.webp" medium="image" />
             <category term="Delightful Designs"/>
 
         <updated>2023-11-23T15:36:02-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://en.yowalsh.com/media/posts/40/2023-go-1-2.webp" class="type:primaryImage" alt="Various views of website shown on desktop, mobile and tablet." /></p>
+                    <p><img src="https://work.elmikewalsh.com/media/posts/40/2023-go-1-2.webp" class="type:primaryImage" alt="Various views of website shown on desktop, mobile and tablet." /></p>
                 <p><a href="https://www.geraldineovalle.com" target="_blank" rel="noopener noreferrer">Geraldine Ovalle</a> wanted a new design for her website in preparation for launching and focusing on her new projects. The new website needed to be clean, modern, minimal, and fast. It was also necessary to optimize for internet searches, for greater visibility.</p>
 <p>For this project I selected the <a href="https://marketplace.getpublii.com/themes/splitian/" target="_blank" rel="noopener noreferrer">Splitian</a> template from the <a href="https://getpublii.com/" target="_blank" rel="noopener noreferrer">Publii</a> Content Management System (CMS) as the base of the site. I then brought the essentials from the old site into the new design. We keep the emblematic logo of the previous versions.</p>
-<figure class="post__image"><img loading="lazy"  src="https://en.yowalsh.com/media/posts/40/2023-go-2.png" alt="Different website views shown on iPad, Macbook and iPhone." width="1200" height="675" sizes="100vw" srcset="https://en.yowalsh.com/media/posts/40/responsive/2023-go-2-xs.webp 300w ,https://en.yowalsh.com/media/posts/40/responsive/2023-go-2-sm.webp 480w ,https://en.yowalsh.com/media/posts/40/responsive/2023-go-2-md.webp 768w ,https://en.yowalsh.com/media/posts/40/responsive/2023-go-2-lg.webp 1024w ,https://en.yowalsh.com/media/posts/40/responsive/2023-go-2-xl.webp 1360w ,https://en.yowalsh.com/media/posts/40/responsive/2023-go-2-2xl.webp 1600w"></figure>
-<p>In addition to the CV, classes and workshops present in the previous version of the website, we added a section for her publications, which include <a href="https://en.yowalsh.com/chilean-culture-and-heritage-website/">the Huellas y Sabores website</a>, <a href="https://en.yowalsh.com/chilean-culture-book-design/">the Chilean Heritage &amp; Culture book</a> y el <a href="https://en.yowalsh.com/ebook-for-a-chilean-culture-and-heritage-project/">eBook: Huellas y Sabores</a>.</p>
+<figure class="post__image"><img loading="lazy"  src="https://work.elmikewalsh.com/media/posts/40/2023-go-2.png" alt="Different website views shown on iPad, Macbook and iPhone." width="1200" height="675" sizes="100vw" srcset="https://work.elmikewalsh.com/media/posts/40/responsive/2023-go-2-xs.webp 300w ,https://work.elmikewalsh.com/media/posts/40/responsive/2023-go-2-sm.webp 480w ,https://work.elmikewalsh.com/media/posts/40/responsive/2023-go-2-md.webp 768w ,https://work.elmikewalsh.com/media/posts/40/responsive/2023-go-2-lg.webp 1024w ,https://work.elmikewalsh.com/media/posts/40/responsive/2023-go-2-xl.webp 1360w ,https://work.elmikewalsh.com/media/posts/40/responsive/2023-go-2-2xl.webp 1600w"></figure>
+<p>In addition to the CV, classes and workshops present in the previous version of the website, we added a section for her publications, which include <a href="https://work.elmikewalsh.com/chilean-culture-and-heritage-website/">the Huellas y Sabores website</a>, <a href="https://work.elmikewalsh.com/chilean-culture-book-design/">the Chilean Heritage &amp; Culture book</a> y el <a href="https://work.elmikewalsh.com/ebook-for-a-chilean-culture-and-heritage-project/">eBook: Huellas y Sabores</a>.</p>
 <h4>Technical Detailss</h4>
 <ul>
 <li>Highlight color is the same purple as previous versions of the site - #7D14C0</li>
@@ -72,19 +72,19 @@
         <author>
             <name>Yo Walsh</name>
         </author>
-        <link href="https://en.yowalsh.com/fast-and-minimalist-personal-site/"/>
-        <id>https://en.yowalsh.com/fast-and-minimalist-personal-site/</id>
-        <media:content url="https://en.yowalsh.com/media/posts/39/2023-en-elmikewalsh.png" medium="image" />
+        <link href="https://work.elmikewalsh.com/fast-and-minimalist-personal-site/"/>
+        <id>https://work.elmikewalsh.com/fast-and-minimalist-personal-site/</id>
+        <media:content url="https://work.elmikewalsh.com/media/posts/39/2023-en-elmikewalsh.png" medium="image" />
             <category term="Delightful Designs"/>
 
         <updated>2023-11-13T09:17:50-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://en.yowalsh.com/media/posts/39/2023-en-elmikewalsh.png" class="type:primaryImage" alt="Different website views shown on iPad, Macbook and iPhone." /></p>
+                    <p><img src="https://work.elmikewalsh.com/media/posts/39/2023-en-elmikewalsh.png" class="type:primaryImage" alt="Different website views shown on iPad, Macbook and iPhone." /></p>
                 <p>For 2023 I decided to give my personal website design a refresh. It was my first project using the Content Management System (CMS) <a href="https://getpublii.com/" target="_blank" rel="noopener noreferrer">Publii</a>.  I started with the <a href="https://marketplace.getpublii.com/themes/square/" target="_blank" rel="noopener noreferrer">Square</a> template by filling in the basic content (images, text, etc).</p>
 <p>I chose a palette of colors (or rather absence of colors) - black and white. To make the links stand out, I applied a yellow underline, similar to a highlighter. The inspiration for this came from <a href="https://manuelmoreale.com/" target="_blank" rel="noopener noreferrer">Manuel Moreale's</a> blog.</p>
-<figure class="post__image"><img loading="lazy"  src="https://en.yowalsh.com/media/posts/39/2023-es-elmikewalsh-2.png" alt="Different views of website shown on desktop, mobile and tablet." width="1200" height="675" sizes="100vw" srcset="https://en.yowalsh.com/media/posts/39/responsive/2023-es-elmikewalsh-2-xs.webp 300w ,https://en.yowalsh.com/media/posts/39/responsive/2023-es-elmikewalsh-2-sm.webp 480w ,https://en.yowalsh.com/media/posts/39/responsive/2023-es-elmikewalsh-2-md.webp 768w ,https://en.yowalsh.com/media/posts/39/responsive/2023-es-elmikewalsh-2-lg.webp 1024w ,https://en.yowalsh.com/media/posts/39/responsive/2023-es-elmikewalsh-2-xl.webp 1360w ,https://en.yowalsh.com/media/posts/39/responsive/2023-es-elmikewalsh-2-2xl.webp 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://work.elmikewalsh.com/media/posts/39/2023-es-elmikewalsh-2.png" alt="Different views of website shown on desktop, mobile and tablet." width="1200" height="675" sizes="100vw" srcset="https://work.elmikewalsh.com/media/posts/39/responsive/2023-es-elmikewalsh-2-xs.webp 300w ,https://work.elmikewalsh.com/media/posts/39/responsive/2023-es-elmikewalsh-2-sm.webp 480w ,https://work.elmikewalsh.com/media/posts/39/responsive/2023-es-elmikewalsh-2-md.webp 768w ,https://work.elmikewalsh.com/media/posts/39/responsive/2023-es-elmikewalsh-2-lg.webp 1024w ,https://work.elmikewalsh.com/media/posts/39/responsive/2023-es-elmikewalsh-2-xl.webp 1360w ,https://work.elmikewalsh.com/media/posts/39/responsive/2023-es-elmikewalsh-2-2xl.webp 1600w"></figure>
 <p>For a unique touch, on mobile devices, the site navigation appears at the bottom of the site similar to a native phone app. It is intended to attract attention, as well as making the site much easier to navigate, as all navigation is close to the visitor's thumb, allowing for easier reach - particularly on phones.</p>
 <p class="align-center"><a href="https://www.elmikewalsh.com" target="_blank" rel="noopener noreferrer" class="btn btn--outline">Visit The Website</a></p>
             ]]>
@@ -95,16 +95,16 @@
         <author>
             <name>Yo Walsh</name>
         </author>
-        <link href="https://en.yowalsh.com/ebook-for-a-university-gastronomy-course/"/>
-        <id>https://en.yowalsh.com/ebook-for-a-university-gastronomy-course/</id>
-        <media:content url="https://en.yowalsh.com/media/posts/37/ruta-newenche.webp" medium="image" />
+        <link href="https://work.elmikewalsh.com/ebook-for-a-university-gastronomy-course/"/>
+        <id>https://work.elmikewalsh.com/ebook-for-a-university-gastronomy-course/</id>
+        <media:content url="https://work.elmikewalsh.com/media/posts/37/ruta-newenche.webp" medium="image" />
             <category term="Delightful Designs"/>
 
         <updated>2023-11-23T15:41:59-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://en.yowalsh.com/media/posts/37/ruta-newenche.webp" class="type:primaryImage" alt="Cover of Libro Newenche eBook shown in print and phone formats." /></p>
+                    <p><img src="https://work.elmikewalsh.com/media/posts/37/ruta-newenche.webp" class="type:primaryImage" alt="Cover of Libro Newenche eBook shown in print and phone formats." /></p>
                 <p>After the release of the book I developed an e-book to increase the publicity and visibility of the project. It is a faithful copy of the original in terms of content, and has been created as EPUB and MOBI for a wider audience. It is a simple and somewhat minimalist book with an emphasis on easy reading.</p>
 <h4>Technical Details</h4>
 <ul>
@@ -112,7 +112,7 @@
 <li><strong style="font-family: var(--editor-font-family); font-size: inherit;">Available formats:</strong><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> EPUB y MOBI.</span></li>
 <li><strong style="font-family: var(--editor-font-family); font-size: inherit;">Language:</strong><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> Spanish.</span></li>
 </ul>
-<p class="align-center"><a href="https://en.yowalsh.com/ruta-newenche.epub" target="_blank" rel="noopener noreferrer" class="btn--outline btn">Download eBook (EPUB)</a> <a href="https://en.yowalsh.com/ruta-newenche.mobi" target="_blank" rel="noopener noreferrer" class="btn--outline btn">Download eBook (MOBI)</a></p>
+<p class="align-center"><a href="https://work.elmikewalsh.com/ruta-newenche.epub" target="_blank" rel="noopener noreferrer" class="btn--outline btn">Download eBook (EPUB)</a> <a href="https://work.elmikewalsh.com/ruta-newenche.mobi" target="_blank" rel="noopener noreferrer" class="btn--outline btn">Download eBook (MOBI)</a></p>
             ]]>
         </content>
     </entry>
@@ -121,21 +121,21 @@
         <author>
             <name>Yo Walsh</name>
         </author>
-        <link href="https://en.yowalsh.com/print-labels-for-a-hot-sauce-line/"/>
-        <id>https://en.yowalsh.com/print-labels-for-a-hot-sauce-line/</id>
-        <media:content url="https://en.yowalsh.com/media/posts/10/macca-a.webp" medium="image" />
+        <link href="https://work.elmikewalsh.com/print-labels-for-a-hot-sauce-line/"/>
+        <id>https://work.elmikewalsh.com/print-labels-for-a-hot-sauce-line/</id>
+        <media:content url="https://work.elmikewalsh.com/media/posts/10/macca-a.webp" medium="image" />
             <category term="Delightful Designs"/>
 
         <updated>2023-11-23T15:55:20-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://en.yowalsh.com/media/posts/10/macca-a.webp" class="type:primaryImage" alt="Front view of hot sauce jar with yellow label." /></p>
+                    <p><img src="https://work.elmikewalsh.com/media/posts/10/macca-a.webp" class="type:primaryImage" alt="Front view of hot sauce jar with yellow label." /></p>
                 <h3>Labels for a line of hot sauces</h3>
 <p>Salsa Macca was a product released near the end of 2015 by <em>Macca Producciones</em>, a family company of an Australian-Chilean couple that operates between Villarrica and Pucón in south-central Chile. For the launch of his product line, they needed three attractive labels for a line of sauces.</p>
-<figure class="post__image"><img loading="lazy"  src="https://en.yowalsh.com/media/posts/10/macca-b.webp" alt="" width="972" height="648" sizes="100vw" srcset="https://en.yowalsh.com/media/posts/10/responsive/macca-b-xs.webp 300w ,https://en.yowalsh.com/media/posts/10/responsive/macca-b-sm.webp 480w ,https://en.yowalsh.com/media/posts/10/responsive/macca-b-md.webp 768w ,https://en.yowalsh.com/media/posts/10/responsive/macca-b-lg.webp 1024w ,https://en.yowalsh.com/media/posts/10/responsive/macca-b-xl.webp 1360w ,https://en.yowalsh.com/media/posts/10/responsive/macca-b-2xl.webp 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://work.elmikewalsh.com/media/posts/10/macca-b.webp" alt="" width="972" height="648" sizes="100vw" srcset="https://work.elmikewalsh.com/media/posts/10/responsive/macca-b-xs.webp 300w ,https://work.elmikewalsh.com/media/posts/10/responsive/macca-b-sm.webp 480w ,https://work.elmikewalsh.com/media/posts/10/responsive/macca-b-md.webp 768w ,https://work.elmikewalsh.com/media/posts/10/responsive/macca-b-lg.webp 1024w ,https://work.elmikewalsh.com/media/posts/10/responsive/macca-b-xl.webp 1360w ,https://work.elmikewalsh.com/media/posts/10/responsive/macca-b-2xl.webp 1600w"></figure>
 <p>The labels had to be quite minimalist, attractive and easy to understand. Each label has a graphic representation of the flavor of the sauce, in addition to the nutritional information and description of the product.</p>
-<figure class="post__image"><img loading="lazy"  src="https://en.yowalsh.com/media/posts/10/macca-e.webp" alt="" width="972" height="648" sizes="100vw" srcset="https://en.yowalsh.com/media/posts/10/responsive/macca-e-xs.webp 300w ,https://en.yowalsh.com/media/posts/10/responsive/macca-e-sm.webp 480w ,https://en.yowalsh.com/media/posts/10/responsive/macca-e-md.webp 768w ,https://en.yowalsh.com/media/posts/10/responsive/macca-e-lg.webp 1024w ,https://en.yowalsh.com/media/posts/10/responsive/macca-e-xl.webp 1360w ,https://en.yowalsh.com/media/posts/10/responsive/macca-e-2xl.webp 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://work.elmikewalsh.com/media/posts/10/macca-e.webp" alt="" width="972" height="648" sizes="100vw" srcset="https://work.elmikewalsh.com/media/posts/10/responsive/macca-e-xs.webp 300w ,https://work.elmikewalsh.com/media/posts/10/responsive/macca-e-sm.webp 480w ,https://work.elmikewalsh.com/media/posts/10/responsive/macca-e-md.webp 768w ,https://work.elmikewalsh.com/media/posts/10/responsive/macca-e-lg.webp 1024w ,https://work.elmikewalsh.com/media/posts/10/responsive/macca-e-xl.webp 1360w ,https://work.elmikewalsh.com/media/posts/10/responsive/macca-e-2xl.webp 1600w"></figure>
 <p>A simple business card was designed as a secondary product, sharing design elements with the labels, and with a diluted boomerang in the background.</p>
 <h4>Technical Details</h4>
 <ul>
@@ -149,24 +149,24 @@
         <author>
             <name>Yo Walsh</name>
         </author>
-        <link href="https://en.yowalsh.com/ebook-for-a-chilean-culture-and-heritage-project/"/>
-        <id>https://en.yowalsh.com/ebook-for-a-chilean-culture-and-heritage-project/</id>
-        <media:content url="https://en.yowalsh.com/media/posts/38/huellas-sabores-2.webp" medium="image" />
+        <link href="https://work.elmikewalsh.com/ebook-for-a-chilean-culture-and-heritage-project/"/>
+        <id>https://work.elmikewalsh.com/ebook-for-a-chilean-culture-and-heritage-project/</id>
+        <media:content url="https://work.elmikewalsh.com/media/posts/38/huellas-sabores-2.webp" medium="image" />
             <category term="Delightful Designs"/>
 
         <updated>2023-11-23T15:41:31-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://en.yowalsh.com/media/posts/38/huellas-sabores-2.webp" class="type:primaryImage" alt="Cover of Huellas y Sabores eBook shown in print and phone formats." /></p>
-                <p>After the release of the <a href="https://en.yowalsh.com/chilean-culture-book-design/">print version of Huellas y Sabores</a> I developed an e-book to increase the publicity and visibility of the project. It is a copy of the original in terms of content, and has been created as EPUB and MOBI for a wider audience. It is a simple and somewhat minimalist book with an emphasis on easy reading.</p>
+                    <p><img src="https://work.elmikewalsh.com/media/posts/38/huellas-sabores-2.webp" class="type:primaryImage" alt="Cover of Huellas y Sabores eBook shown in print and phone formats." /></p>
+                <p>After the release of the <a href="https://work.elmikewalsh.com/chilean-culture-book-design/">print version of Huellas y Sabores</a> I developed an e-book to increase the publicity and visibility of the project. It is a copy of the original in terms of content, and has been created as EPUB and MOBI for a wider audience. It is a simple and somewhat minimalist book with an emphasis on easy reading.</p>
 <h4>Technical Details</h4>
 <ul>
 <li>The programs used for the development of the e-book were Photoshop, Calibre, and Microsoft Word.</li>
 <li><strong style="font-family: var(--editor-font-family); font-size: inherit;">Available Formats:</strong><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> EPUB y MOBI.</span></li>
 <li><strong style="font-family: var(--editor-font-family); font-size: inherit;">Language:</strong><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> Spanish.</span></li>
 </ul>
-<p class="align-center"><a href="https://en.yowalsh.com/huellas-sabores-cordillera.epub" target="_blank" rel="noopener noreferrer" class="btn btn--outline">Download eBook (EPUB)</a> <a href="https://en.yowalsh.com/huellas-sabores-cordillera.mobi" target="_blank" rel="noopener noreferrer" class="btn btn--outline">Download eBook (MOBI)</a></p>
+<p class="align-center"><a href="https://work.elmikewalsh.com/huellas-sabores-cordillera.epub" target="_blank" rel="noopener noreferrer" class="btn btn--outline">Download eBook (EPUB)</a> <a href="https://work.elmikewalsh.com/huellas-sabores-cordillera.mobi" target="_blank" rel="noopener noreferrer" class="btn btn--outline">Download eBook (MOBI)</a></p>
             ]]>
         </content>
     </entry>
@@ -175,24 +175,24 @@
         <author>
             <name>Yo Walsh</name>
         </author>
-        <link href="https://en.yowalsh.com/chilean-culture-book-design/"/>
-        <id>https://en.yowalsh.com/chilean-culture-book-design/</id>
-        <media:content url="https://en.yowalsh.com/media/posts/9/hs-cordillera-a-2.webp" medium="image" />
+        <link href="https://work.elmikewalsh.com/chilean-culture-book-design/"/>
+        <id>https://work.elmikewalsh.com/chilean-culture-book-design/</id>
+        <media:content url="https://work.elmikewalsh.com/media/posts/9/hs-cordillera-a-2.webp" medium="image" />
             <category term="Delightful Designs"/>
 
         <updated>2023-11-23T15:58:00-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://en.yowalsh.com/media/posts/9/hs-cordillera-a-2.webp" class="type:primaryImage" alt="Front cover of print book shown in square format." /></p>
+                    <p><img src="https://work.elmikewalsh.com/media/posts/9/hs-cordillera-a-2.webp" class="type:primaryImage" alt="Front cover of print book shown in square format." /></p>
                 <h3>Print and electronic design for the book <em>Huellas y sabores de mujeres en la cordillera</em>.</h3>
 <p>I was contracted by <a href="http://www.geraldineovalle.com/" target="_blank" rel="noopener" title="Geraldine Ovalle">Geraldine Ovalle</a> and Natalia Barría, two winners of the Regional Fondart in 2014, to provide the design for their book, <em>Huellas y sabores de mujeres en la cordillera</em>. The idea was for this particular book to be the first of three volumes, each of which would cover a different sector of the Araucanía Region of Chile: Mountains, Valley and Sea. They were looking for a modern and attractive design.</p>
 <p>Instead of a more traditional table of contents, I opted for a more minimalist style, placing the chapters in large type, with the names of the sections – if any – below each chapter. The illustration of the tree is an araucaria – a highly symbolic tree of the region. This helped to highlight the book and draw attention to the interested reader, separating it from other publications and projects have placed the design as a secondary interest, the investigation being the primary focus.</p>
-<figure class="post__image"><img loading="lazy"  src="https://en.yowalsh.com/media/posts/9/hs-cordillera-b-2.webp" alt="Open book view of Table of Contents." width="1200" height="675" sizes="100vw" srcset="https://en.yowalsh.com/media/posts/9/responsive/hs-cordillera-b-2-xs.webp 300w ,https://en.yowalsh.com/media/posts/9/responsive/hs-cordillera-b-2-sm.webp 480w ,https://en.yowalsh.com/media/posts/9/responsive/hs-cordillera-b-2-md.webp 768w ,https://en.yowalsh.com/media/posts/9/responsive/hs-cordillera-b-2-lg.webp 1024w ,https://en.yowalsh.com/media/posts/9/responsive/hs-cordillera-b-2-xl.webp 1360w ,https://en.yowalsh.com/media/posts/9/responsive/hs-cordillera-b-2-2xl.webp 1600w"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://en.yowalsh.com/media/posts/9/hs-cordillera-c-2.webp" alt="Open book showing two pages of chef profiles." width="1200" height="675" sizes="100vw" srcset="https://en.yowalsh.com/media/posts/9/responsive/hs-cordillera-c-2-xs.webp 300w ,https://en.yowalsh.com/media/posts/9/responsive/hs-cordillera-c-2-sm.webp 480w ,https://en.yowalsh.com/media/posts/9/responsive/hs-cordillera-c-2-md.webp 768w ,https://en.yowalsh.com/media/posts/9/responsive/hs-cordillera-c-2-lg.webp 1024w ,https://en.yowalsh.com/media/posts/9/responsive/hs-cordillera-c-2-xl.webp 1360w ,https://en.yowalsh.com/media/posts/9/responsive/hs-cordillera-c-2-2xl.webp 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://work.elmikewalsh.com/media/posts/9/hs-cordillera-b-2.webp" alt="Open book view of Table of Contents." width="1200" height="675" sizes="100vw" srcset="https://work.elmikewalsh.com/media/posts/9/responsive/hs-cordillera-b-2-xs.webp 300w ,https://work.elmikewalsh.com/media/posts/9/responsive/hs-cordillera-b-2-sm.webp 480w ,https://work.elmikewalsh.com/media/posts/9/responsive/hs-cordillera-b-2-md.webp 768w ,https://work.elmikewalsh.com/media/posts/9/responsive/hs-cordillera-b-2-lg.webp 1024w ,https://work.elmikewalsh.com/media/posts/9/responsive/hs-cordillera-b-2-xl.webp 1360w ,https://work.elmikewalsh.com/media/posts/9/responsive/hs-cordillera-b-2-2xl.webp 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://work.elmikewalsh.com/media/posts/9/hs-cordillera-c-2.webp" alt="Open book showing two pages of chef profiles." width="1200" height="675" sizes="100vw" srcset="https://work.elmikewalsh.com/media/posts/9/responsive/hs-cordillera-c-2-xs.webp 300w ,https://work.elmikewalsh.com/media/posts/9/responsive/hs-cordillera-c-2-sm.webp 480w ,https://work.elmikewalsh.com/media/posts/9/responsive/hs-cordillera-c-2-md.webp 768w ,https://work.elmikewalsh.com/media/posts/9/responsive/hs-cordillera-c-2-lg.webp 1024w ,https://work.elmikewalsh.com/media/posts/9/responsive/hs-cordillera-c-2-xl.webp 1360w ,https://work.elmikewalsh.com/media/posts/9/responsive/hs-cordillera-c-2-2xl.webp 1600w"></figure>
 <p>Although the book mainly consists of research, there are also several pages of photos. The biography section has a photo of each participant with a review noting how they came to be part of the gastronomic world, and the names of the corresponding businesses and/or products. Also, each participant has a photo page that highlights the business and product.</p>
-<figure class="post__image"><img loading="lazy"  src="https://en.yowalsh.com/media/posts/9/hs-cordillera-d-2.webp" alt="Open book showing two pages of photos with black background." width="1200" height="675" sizes="100vw" srcset="https://en.yowalsh.com/media/posts/9/responsive/hs-cordillera-d-2-xs.webp 300w ,https://en.yowalsh.com/media/posts/9/responsive/hs-cordillera-d-2-sm.webp 480w ,https://en.yowalsh.com/media/posts/9/responsive/hs-cordillera-d-2-md.webp 768w ,https://en.yowalsh.com/media/posts/9/responsive/hs-cordillera-d-2-lg.webp 1024w ,https://en.yowalsh.com/media/posts/9/responsive/hs-cordillera-d-2-xl.webp 1360w ,https://en.yowalsh.com/media/posts/9/responsive/hs-cordillera-d-2-2xl.webp 1600w"></figure>
-<h4><figure class="post__image"><img loading="lazy"  src="https://en.yowalsh.com/media/posts/9/hs-cordillera-e-3.webp" alt="Open book showing chapter title and image on left and text on right." width="1200" height="675" sizes="100vw" srcset="https://en.yowalsh.com/media/posts/9/responsive/hs-cordillera-e-3-xs.webp 300w ,https://en.yowalsh.com/media/posts/9/responsive/hs-cordillera-e-3-sm.webp 480w ,https://en.yowalsh.com/media/posts/9/responsive/hs-cordillera-e-3-md.webp 768w ,https://en.yowalsh.com/media/posts/9/responsive/hs-cordillera-e-3-lg.webp 1024w ,https://en.yowalsh.com/media/posts/9/responsive/hs-cordillera-e-3-xl.webp 1360w ,https://en.yowalsh.com/media/posts/9/responsive/hs-cordillera-e-3-2xl.webp 1600w"></figure>Technical Details</h4>
+<figure class="post__image"><img loading="lazy"  src="https://work.elmikewalsh.com/media/posts/9/hs-cordillera-d-2.webp" alt="Open book showing two pages of photos with black background." width="1200" height="675" sizes="100vw" srcset="https://work.elmikewalsh.com/media/posts/9/responsive/hs-cordillera-d-2-xs.webp 300w ,https://work.elmikewalsh.com/media/posts/9/responsive/hs-cordillera-d-2-sm.webp 480w ,https://work.elmikewalsh.com/media/posts/9/responsive/hs-cordillera-d-2-md.webp 768w ,https://work.elmikewalsh.com/media/posts/9/responsive/hs-cordillera-d-2-lg.webp 1024w ,https://work.elmikewalsh.com/media/posts/9/responsive/hs-cordillera-d-2-xl.webp 1360w ,https://work.elmikewalsh.com/media/posts/9/responsive/hs-cordillera-d-2-2xl.webp 1600w"></figure>
+<h4><figure class="post__image"><img loading="lazy"  src="https://work.elmikewalsh.com/media/posts/9/hs-cordillera-e-3.webp" alt="Open book showing chapter title and image on left and text on right." width="1200" height="675" sizes="100vw" srcset="https://work.elmikewalsh.com/media/posts/9/responsive/hs-cordillera-e-3-xs.webp 300w ,https://work.elmikewalsh.com/media/posts/9/responsive/hs-cordillera-e-3-sm.webp 480w ,https://work.elmikewalsh.com/media/posts/9/responsive/hs-cordillera-e-3-md.webp 768w ,https://work.elmikewalsh.com/media/posts/9/responsive/hs-cordillera-e-3-lg.webp 1024w ,https://work.elmikewalsh.com/media/posts/9/responsive/hs-cordillera-e-3-xl.webp 1360w ,https://work.elmikewalsh.com/media/posts/9/responsive/hs-cordillera-e-3-2xl.webp 1600w"></figure>Technical Details</h4>
 <ul>
 <li>
 <p>The measurements of the printed book are: 200mm x 200mm.</p>
@@ -204,7 +204,7 @@
 <li>The book <em>Huellas y Sabores de Mujeres en la Cordillera</em> was sent to print at the end of October 2014 with a first run of 250 copies.</li>
 </ul>
 <hr>
-<p class="align-center">After the release of the book I <a href="https://en.yowalsh.com/ebook-for-a-chilean-culture-and-heritage-project/">developed an e-book</a> to increase the publicity and visibility of the project.</p>
+<p class="align-center">After the release of the book I <a href="https://work.elmikewalsh.com/ebook-for-a-chilean-culture-and-heritage-project/">developed an e-book</a> to increase the publicity and visibility of the project.</p>
             ]]>
         </content>
     </entry>
@@ -213,21 +213,21 @@
         <author>
             <name>Yo Walsh</name>
         </author>
-        <link href="https://en.yowalsh.com/chilean-culture-and-heritage-website/"/>
-        <id>https://en.yowalsh.com/chilean-culture-and-heritage-website/</id>
-        <media:content url="https://en.yowalsh.com/media/posts/8/2023-en-huellas-sitioweb.webp" medium="image" />
+        <link href="https://work.elmikewalsh.com/chilean-culture-and-heritage-website/"/>
+        <id>https://work.elmikewalsh.com/chilean-culture-and-heritage-website/</id>
+        <media:content url="https://work.elmikewalsh.com/media/posts/8/2023-en-huellas-sitioweb.webp" medium="image" />
             <category term="Delightful Designs"/>
 
         <updated>2023-11-23T16:07:29-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://en.yowalsh.com/media/posts/8/2023-en-huellas-sitioweb.webp" class="type:primaryImage" alt="Several views of website shown on desktop, mobile and tablet." /></p>
+                    <p><img src="https://work.elmikewalsh.com/media/posts/8/2023-en-huellas-sitioweb.webp" class="type:primaryImage" alt="Several views of website shown on desktop, mobile and tablet." /></p>
                 <h3>Website for the Huellas y Sabores Chilean Heritage project.</h3>
-<p><a href="http://www.geraldineovalle.com/" target="_blank" rel="noopener" title="Geraldine Ovalle">Geraldine Ovalle</a> and Natalia Barría, two winners of the Regional Fondart in 2014, published a book called <a href="https://en.yowalsh.com/chilean-culture-book-design/">Huellas y Sabores de Mujeres en la Cordillera</a>. An accompanying website was later designed to further spread the information about the project.</p>
+<p><a href="http://www.geraldineovalle.com/" target="_blank" rel="noopener" title="Geraldine Ovalle">Geraldine Ovalle</a> and Natalia Barría, two winners of the Regional Fondart in 2014, published a book called <a href="https://work.elmikewalsh.com/chilean-culture-book-design/">Huellas y Sabores de Mujeres en la Cordillera</a>. An accompanying website was later designed to further spread the information about the project.</p>
 <p>The Huellas y Sabores website acts as a sort of web portal for the project in general, where one can learn more about the proposal and purpose of the investigation, read the biographies of the people who participated in the project, a brief presentation of the authors, a news section, and more.</p>
 <p>The new website helped spread information about the project, finalized in a presentation at the Liquén Cultural Center and the creation of a Facebook page, which attracted a significant audience.</p>
-<figure class="post__image"><img loading="lazy"  src="https://en.yowalsh.com/media/posts/8/huellas-sabores-thumb-full.webp" alt="Different website views on gold and black iPads, Macbook and iPhone." width="1363" height="1136" sizes="100vw" srcset="https://en.yowalsh.com/media/posts/8/responsive/huellas-sabores-thumb-full-xs.webp 300w ,https://en.yowalsh.com/media/posts/8/responsive/huellas-sabores-thumb-full-sm.webp 480w ,https://en.yowalsh.com/media/posts/8/responsive/huellas-sabores-thumb-full-md.webp 768w ,https://en.yowalsh.com/media/posts/8/responsive/huellas-sabores-thumb-full-lg.webp 1024w ,https://en.yowalsh.com/media/posts/8/responsive/huellas-sabores-thumb-full-xl.webp 1360w ,https://en.yowalsh.com/media/posts/8/responsive/huellas-sabores-thumb-full-2xl.webp 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://work.elmikewalsh.com/media/posts/8/huellas-sabores-thumb-full.webp" alt="Different website views on gold and black iPads, Macbook and iPhone." width="1363" height="1136" sizes="100vw" srcset="https://work.elmikewalsh.com/media/posts/8/responsive/huellas-sabores-thumb-full-xs.webp 300w ,https://work.elmikewalsh.com/media/posts/8/responsive/huellas-sabores-thumb-full-sm.webp 480w ,https://work.elmikewalsh.com/media/posts/8/responsive/huellas-sabores-thumb-full-md.webp 768w ,https://work.elmikewalsh.com/media/posts/8/responsive/huellas-sabores-thumb-full-lg.webp 1024w ,https://work.elmikewalsh.com/media/posts/8/responsive/huellas-sabores-thumb-full-xl.webp 1360w ,https://work.elmikewalsh.com/media/posts/8/responsive/huellas-sabores-thumb-full-2xl.webp 1600w"></figure>
 <h4>Technical Details</h4>
 <ul>
 <li>The font used on the site, as with the printed book, is <a href="https://www.google.com/fonts/specimen/PT+Sans" target="_blank" rel="noopener">PT Sans</a>.</li>
