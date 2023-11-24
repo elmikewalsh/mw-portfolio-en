@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "2024-EN-yowalsh!",
+    "title": "2024-EN-PORTFOLIO",
     "description": "",
     "home_page_url": "https://work.elmikewalsh.com",
     "feed_url": "https://work.elmikewalsh.com/feed.json",
@@ -13,7 +13,7 @@
             "id": "https://work.elmikewalsh.com/publii-cms-spanish-translation/",
             "url": "https://work.elmikewalsh.com/publii-cms-spanish-translation/",
             "title": "Publii CMS: Spanish Translation",
-            "content_html": "<h3>Ongoing Spanish Translation For Publii CMS</h3>\n<p>I have recently had multiple projects based on <a href=\"https://getpublii.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Publii CMS</a>. Publii is an amazing program that makes it easy to create and manage your website. The developer community has also provided a number of translations. However, one of Publii's previous limitations was the lack of a complete Spanish translation. So, I took it upon myself to fill in the blank.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://work.elmikewalsh.com/media/posts/41/publii-trans-2.png\" alt=\"Two iMac screens with coding and Publii logo.\" width=\"1200\" height=\"675\" sizes=\"100vw\" srcset=\"https://work.elmikewalsh.com/media/posts/41/responsive/publii-trans-2-xs.webp 300w ,https://work.elmikewalsh.com/media/posts/41/responsive/publii-trans-2-sm.webp 480w ,https://work.elmikewalsh.com/media/posts/41/responsive/publii-trans-2-md.webp 768w ,https://work.elmikewalsh.com/media/posts/41/responsive/publii-trans-2-lg.webp 1024w ,https://work.elmikewalsh.com/media/posts/41/responsive/publii-trans-2-xl.webp 1360w ,https://work.elmikewalsh.com/media/posts/41/responsive/publii-trans-2-2xl.webp 1600w\"></figure>\n<p>Over the course of a month, I reviewed and translated more than 1,300 lines of code into Spanish, both for the main program and for the text editor (theme translations may come at a future date).</p>\n<p>Once this was finished I submitted the merge request from my <a href=\"https://www.github.com/elmikewalsh\" target=\"_blank\" rel=\"noopener noreferrer\">Github</a>, which was accepted at the start of the new year.</p>\n<p>If you are interested, you can click the button below to download the latest Spanish language pack for Publii CMS.</p>\n<h4>Technical Details</h4>\n<ul>\n<li>\n<p>The translation of the code was completed in <a href=\"https://www.sublimetext.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Sublime Text</a>.</p>\n</li>\n</ul>\n<p class=\"align-center\"><a href=\"https://github.com/GetPublii/Publii-ui-locales/blob/main/downloads/0.43.0/es-cl.zip\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn btn--outline\">Publii 0.43.0 Spanish Language Pack</a></p>",
+            "content_html": "<h3>Ongoing Spanish Translation For Publii CMS</h3>\n<p>I have recently had multiple projects based on <a href=\"https://getpublii.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Publii CMS</a>. Publii is an amazing program that makes it easy to create and manage your website. The developer community has also provided a number of translations. However, one of Publii's previous limitations was the lack of a complete Spanish translation. So, I took it upon myself to fill in the blank.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://work.elmikewalsh.com/media/posts/41/publii-trans-2.png\" alt=\"Two iMac screens with coding and Publii logo.\" width=\"1200\" height=\"675\" sizes=\"100vw\" srcset=\"https://work.elmikewalsh.com/media/posts/41/responsive/publii-trans-2-xs.webp 300w ,https://work.elmikewalsh.com/media/posts/41/responsive/publii-trans-2-sm.webp 480w ,https://work.elmikewalsh.com/media/posts/41/responsive/publii-trans-2-md.webp 768w ,https://work.elmikewalsh.com/media/posts/41/responsive/publii-trans-2-lg.webp 1024w ,https://work.elmikewalsh.com/media/posts/41/responsive/publii-trans-2-xl.webp 1360w ,https://work.elmikewalsh.com/media/posts/41/responsive/publii-trans-2-2xl.webp 1600w\"></figure>\n<p>Over the course of a month, I reviewed and translated more than 1,300 lines of code into Spanish, both for the main program and for the text editor (theme translations may come at a future date).</p>\n<p>Once this was finished I submitted the merge request from my <a href=\"https://www.github.com/elmikewalsh\" target=\"_blank\" rel=\"noopener noreferrer\">Github</a>, which was accepted at the start of the new year.</p>\n<p>If you are interested, you can click the button below to download the latest Spanish language pack for Publii CMS.</p>\n<h4>Technical Details</h4>\n<ul>\n<li>\n<p>The translation of the code was completed in <a href=\"https://www.sublimetext.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Sublime Text</a>.</p>\n</li>\n</ul>\n<p class=\"align-center\"><a href=\"https://github.com/GetPublii/Publii-ui-locales/blob/main/downloads/0.44.1/es-cl.zip\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn btn--outline\">Publii 0.44.1 Spanish Language Pack</a></p>",
             "image": "https://work.elmikewalsh.com/media/posts/41/publii-trans-1.png",
             "author": {
                 "name": "Yo Walsh"
@@ -22,7 +22,7 @@
                    "Delightful Designs"
             ],
             "date_published": "2022-12-28T07:42:21-04:00",
-            "date_modified": "2023-11-24T09:07:10-04:00"
+            "date_modified": "2023-11-24T16:52:26-04:00"
         },
         {
             "id": "https://work.elmikewalsh.com/minimalist-site-for-chilean-professor/",
@@ -44,7 +44,7 @@
             "url": "https://work.elmikewalsh.com/fast-and-minimalist-personal-site/",
             "title": "Fast &amp; Minimalist Personal Site",
             "content_html": "<p>For 2023 I decided to give my personal website design a refresh. It was my first project using the Content Management System (CMS) <a href=\"https://getpublii.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Publii</a>.  I started with the <a href=\"https://marketplace.getpublii.com/themes/square/\" target=\"_blank\" rel=\"noopener noreferrer\">Square</a> template by filling in the basic content (images, text, etc).</p>\n<p>I chose a palette of colors (or rather absence of colors) - black and white. To make the links stand out, I applied a yellow underline, similar to a highlighter. The inspiration for this came from <a href=\"https://manuelmoreale.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Manuel Moreale's</a> blog.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://work.elmikewalsh.com/media/posts/39/2023-es-elmikewalsh-2.png\" alt=\"Different views of website shown on desktop, mobile and tablet.\" width=\"1200\" height=\"675\" sizes=\"100vw\" srcset=\"https://work.elmikewalsh.com/media/posts/39/responsive/2023-es-elmikewalsh-2-xs.webp 300w ,https://work.elmikewalsh.com/media/posts/39/responsive/2023-es-elmikewalsh-2-sm.webp 480w ,https://work.elmikewalsh.com/media/posts/39/responsive/2023-es-elmikewalsh-2-md.webp 768w ,https://work.elmikewalsh.com/media/posts/39/responsive/2023-es-elmikewalsh-2-lg.webp 1024w ,https://work.elmikewalsh.com/media/posts/39/responsive/2023-es-elmikewalsh-2-xl.webp 1360w ,https://work.elmikewalsh.com/media/posts/39/responsive/2023-es-elmikewalsh-2-2xl.webp 1600w\"></figure>\n<p>For a unique touch, on mobile devices, the site navigation appears at the bottom of the site similar to a native phone app. It is intended to attract attention, as well as making the site much easier to navigate, as all navigation is close to the visitor's thumb, allowing for easier reach - particularly on phones.</p>\n<p class=\"align-center\"><a href=\"https://www.elmikewalsh.com\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn btn--outline\">Visit The Website</a></p>",
-            "image": "https://work.elmikewalsh.com/media/posts/39/2023-en-elmikewalsh.png",
+            "image": "https://work.elmikewalsh.com/media/posts/39/sites-general-img-xl.webp",
             "author": {
                 "name": "Yo Walsh"
             },
@@ -52,7 +52,7 @@
                    "Delightful Designs"
             ],
             "date_published": "2022-10-19T08:43:00-04:00",
-            "date_modified": "2023-11-13T09:17:50-04:00"
+            "date_modified": "2023-11-24T14:06:37-04:00"
         },
         {
             "id": "https://work.elmikewalsh.com/ebook-for-a-university-gastronomy-course/",
@@ -74,7 +74,7 @@
             "url": "https://work.elmikewalsh.com/print-labels-for-a-hot-sauce-line/",
             "title": "Print Labels For A Hot Sauce Line",
             "content_html": "<h3>Labels for a line of hot sauces</h3>\n<p>Salsa Macca was a product released near the end of 2015 by <em>Macca Producciones</em>, a family company of an Australian-Chilean couple that operates between Villarrica and Pucón in south-central Chile. For the launch of his product line, they needed three attractive labels for a line of sauces.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://work.elmikewalsh.com/media/posts/10/macca-b.webp\" alt=\"\" width=\"972\" height=\"648\" sizes=\"100vw\" srcset=\"https://work.elmikewalsh.com/media/posts/10/responsive/macca-b-xs.webp 300w ,https://work.elmikewalsh.com/media/posts/10/responsive/macca-b-sm.webp 480w ,https://work.elmikewalsh.com/media/posts/10/responsive/macca-b-md.webp 768w ,https://work.elmikewalsh.com/media/posts/10/responsive/macca-b-lg.webp 1024w ,https://work.elmikewalsh.com/media/posts/10/responsive/macca-b-xl.webp 1360w ,https://work.elmikewalsh.com/media/posts/10/responsive/macca-b-2xl.webp 1600w\"></figure>\n<p>The labels had to be quite minimalist, attractive and easy to understand. Each label has a graphic representation of the flavor of the sauce, in addition to the nutritional information and description of the product.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://work.elmikewalsh.com/media/posts/10/macca-e.webp\" alt=\"\" width=\"972\" height=\"648\" sizes=\"100vw\" srcset=\"https://work.elmikewalsh.com/media/posts/10/responsive/macca-e-xs.webp 300w ,https://work.elmikewalsh.com/media/posts/10/responsive/macca-e-sm.webp 480w ,https://work.elmikewalsh.com/media/posts/10/responsive/macca-e-md.webp 768w ,https://work.elmikewalsh.com/media/posts/10/responsive/macca-e-lg.webp 1024w ,https://work.elmikewalsh.com/media/posts/10/responsive/macca-e-xl.webp 1360w ,https://work.elmikewalsh.com/media/posts/10/responsive/macca-e-2xl.webp 1600w\"></figure>\n<p>A simple business card was designed as a secondary product, sharing design elements with the labels, and with a diluted boomerang in the background.</p>\n<h4>Technical Details</h4>\n<ul>\n<li><a href=\"https://sellfy.com/p/7I08/\" target=\"_blank\" rel=\"noopener\">REIS</a> and <a href=\"https://www.google.com/fonts/specimen/Open+Sans\" target=\"_blank\" rel=\"noopener\">Open Sans</a> fonts were used in the design of the labels and card.</li>\n</ul>",
-            "image": "https://work.elmikewalsh.com/media/posts/10/macca-a.webp",
+            "image": "https://work.elmikewalsh.com/media/posts/10/macca-a-2.webp",
             "author": {
                 "name": "Yo Walsh"
             },
@@ -82,7 +82,7 @@
                    "Delightful Designs"
             ],
             "date_published": "2022-01-13T08:27:09-04:00",
-            "date_modified": "2023-11-23T15:55:20-04:00"
+            "date_modified": "2023-11-24T16:48:35-04:00"
         },
         {
             "id": "https://work.elmikewalsh.com/ebook-for-a-chilean-culture-and-heritage-project/",

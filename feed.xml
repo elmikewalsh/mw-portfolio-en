@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>2024-EN-yowalsh!</title>
+    <title>2024-EN-PORTFOLIO</title>
     <link href="https://work.elmikewalsh.com/feed.xml" rel="self" />
     <link href="https://work.elmikewalsh.com" />
-    <updated>2023-11-24T09:07:10-04:00</updated>
+    <updated>2023-11-24T16:52:26-04:00</updated>
     <author>
         <name>Yo Walsh</name>
     </author>
@@ -19,7 +19,7 @@
         <media:content url="https://work.elmikewalsh.com/media/posts/41/publii-trans-1.png" medium="image" />
             <category term="Delightful Designs"/>
 
-        <updated>2023-11-24T09:07:10-04:00</updated>
+        <updated>2023-11-24T16:52:26-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -36,7 +36,7 @@
 <p>The translation of the code was completed in <a href="https://www.sublimetext.com/" target="_blank" rel="noopener noreferrer">Sublime Text</a>.</p>
 </li>
 </ul>
-<p class="align-center"><a href="https://github.com/GetPublii/Publii-ui-locales/blob/main/downloads/0.43.0/es-cl.zip" target="_blank" rel="noopener noreferrer" class="btn btn--outline">Publii 0.43.0 Spanish Language Pack</a></p>
+<p class="align-center"><a href="https://github.com/GetPublii/Publii-ui-locales/blob/main/downloads/0.44.1/es-cl.zip" target="_blank" rel="noopener noreferrer" class="btn btn--outline">Publii 0.44.1 Spanish Language Pack</a></p>
             ]]>
         </content>
     </entry>
@@ -74,14 +74,14 @@
         </author>
         <link href="https://work.elmikewalsh.com/fast-and-minimalist-personal-site/"/>
         <id>https://work.elmikewalsh.com/fast-and-minimalist-personal-site/</id>
-        <media:content url="https://work.elmikewalsh.com/media/posts/39/2023-en-elmikewalsh.png" medium="image" />
+        <media:content url="https://work.elmikewalsh.com/media/posts/39/sites-general-img-xl.webp" medium="image" />
             <category term="Delightful Designs"/>
 
-        <updated>2023-11-13T09:17:50-04:00</updated>
+        <updated>2023-11-24T14:06:37-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://work.elmikewalsh.com/media/posts/39/2023-en-elmikewalsh.png" class="type:primaryImage" alt="Different website views shown on iPad, Macbook and iPhone." /></p>
+                    <p><img src="https://work.elmikewalsh.com/media/posts/39/sites-general-img-xl.webp" class="type:primaryImage" alt="Different website views shown on iPad, Macbook and iPhone." /></p>
                 <p>For 2023 I decided to give my personal website design a refresh. It was my first project using the Content Management System (CMS) <a href="https://getpublii.com/" target="_blank" rel="noopener noreferrer">Publii</a>.  I started with the <a href="https://marketplace.getpublii.com/themes/square/" target="_blank" rel="noopener noreferrer">Square</a> template by filling in the basic content (images, text, etc).</p>
 <p>I chose a palette of colors (or rather absence of colors) - black and white. To make the links stand out, I applied a yellow underline, similar to a highlighter. The inspiration for this came from <a href="https://manuelmoreale.com/" target="_blank" rel="noopener noreferrer">Manuel Moreale's</a> blog.</p>
 <figure class="post__image"><img loading="lazy"  src="https://work.elmikewalsh.com/media/posts/39/2023-es-elmikewalsh-2.png" alt="Different views of website shown on desktop, mobile and tablet." width="1200" height="675" sizes="100vw" srcset="https://work.elmikewalsh.com/media/posts/39/responsive/2023-es-elmikewalsh-2-xs.webp 300w ,https://work.elmikewalsh.com/media/posts/39/responsive/2023-es-elmikewalsh-2-sm.webp 480w ,https://work.elmikewalsh.com/media/posts/39/responsive/2023-es-elmikewalsh-2-md.webp 768w ,https://work.elmikewalsh.com/media/posts/39/responsive/2023-es-elmikewalsh-2-lg.webp 1024w ,https://work.elmikewalsh.com/media/posts/39/responsive/2023-es-elmikewalsh-2-xl.webp 1360w ,https://work.elmikewalsh.com/media/posts/39/responsive/2023-es-elmikewalsh-2-2xl.webp 1600w"></figure>
@@ -123,14 +123,14 @@
         </author>
         <link href="https://work.elmikewalsh.com/print-labels-for-a-hot-sauce-line/"/>
         <id>https://work.elmikewalsh.com/print-labels-for-a-hot-sauce-line/</id>
-        <media:content url="https://work.elmikewalsh.com/media/posts/10/macca-a.webp" medium="image" />
+        <media:content url="https://work.elmikewalsh.com/media/posts/10/macca-a-2.webp" medium="image" />
             <category term="Delightful Designs"/>
 
-        <updated>2023-11-23T15:55:20-04:00</updated>
+        <updated>2023-11-24T16:48:35-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://work.elmikewalsh.com/media/posts/10/macca-a.webp" class="type:primaryImage" alt="Front view of hot sauce jar with yellow label." /></p>
+                    <p><img src="https://work.elmikewalsh.com/media/posts/10/macca-a-2.webp" class="type:primaryImage" alt="Front view of hot sauce jar with yellow label." /></p>
                 <h3>Labels for a line of hot sauces</h3>
 <p>Salsa Macca was a product released near the end of 2015 by <em>Macca Producciones</em>, a family company of an Australian-Chilean couple that operates between Villarrica and Pucón in south-central Chile. For the launch of his product line, they needed three attractive labels for a line of sauces.</p>
 <figure class="post__image"><img loading="lazy"  src="https://work.elmikewalsh.com/media/posts/10/macca-b.webp" alt="" width="972" height="648" sizes="100vw" srcset="https://work.elmikewalsh.com/media/posts/10/responsive/macca-b-xs.webp 300w ,https://work.elmikewalsh.com/media/posts/10/responsive/macca-b-sm.webp 480w ,https://work.elmikewalsh.com/media/posts/10/responsive/macca-b-md.webp 768w ,https://work.elmikewalsh.com/media/posts/10/responsive/macca-b-lg.webp 1024w ,https://work.elmikewalsh.com/media/posts/10/responsive/macca-b-xl.webp 1360w ,https://work.elmikewalsh.com/media/posts/10/responsive/macca-b-2xl.webp 1600w"></figure>
