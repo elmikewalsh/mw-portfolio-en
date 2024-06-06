@@ -1,122 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://folio.elmike.me/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://dev.elmikewalsh.com/en/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://folio.elmike.me/</loc>
+<loc>https://dev.elmikewalsh.com/en/</loc>
 </url>
 <url>
-<loc>https://folio.elmike.me/chilean-culture-and-heritage-website/</loc>
+<loc>https://dev.elmikewalsh.com/en/chilean-culture-and-heritage-website/</loc>
 <lastmod>2023-11-23T17:07:29-03:00</lastmod>
 <image:image>
-<image:loc>https://folio.elmike.me/media/posts/8/2023-en-huellas-sitioweb.webp</image:loc>
+<image:loc>https://dev.elmikewalsh.com/en/media/posts/8/2023-en-huellas-sitioweb.webp</image:loc>
 <image:title><![CDATA[Several views of website shown on desktop, mobile and tablet.]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://folio.elmike.me/media/posts/8/huellas-sabores-thumb-full.webp</image:loc>
+<image:loc>https://dev.elmikewalsh.com/en/media/posts/8/huellas-sabores-thumb-full.webp</image:loc>
 <image:title><![CDATA[Different website views on gold and black iPads, Macbook and iPhone.]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://folio.elmike.me/chilean-culture-book-design/</loc>
+<loc>https://dev.elmikewalsh.com/en/chilean-culture-book-design/</loc>
 <lastmod>2023-11-23T16:58:00-03:00</lastmod>
 <image:image>
-<image:loc>https://folio.elmike.me/media/posts/9/hs-cordillera-a-2.webp</image:loc>
+<image:loc>https://dev.elmikewalsh.com/en/media/posts/9/hs-cordillera-a-2.webp</image:loc>
 <image:title><![CDATA[Front cover of print book shown in square format.]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://folio.elmike.me/media/posts/9/hs-cordillera-b-2.webp</image:loc>
+<image:loc>https://dev.elmikewalsh.com/en/media/posts/9/hs-cordillera-b-2.webp</image:loc>
 <image:title><![CDATA[Open book view of Table of Contents.]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://folio.elmike.me/media/posts/9/hs-cordillera-c-2.webp</image:loc>
+<image:loc>https://dev.elmikewalsh.com/en/media/posts/9/hs-cordillera-c-2.webp</image:loc>
 <image:title><![CDATA[Open book showing two pages of chef profiles.]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://folio.elmike.me/media/posts/9/hs-cordillera-d-2.webp</image:loc>
+<image:loc>https://dev.elmikewalsh.com/en/media/posts/9/hs-cordillera-d-2.webp</image:loc>
 <image:title><![CDATA[Open book showing two pages of photos with black background.]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://folio.elmike.me/media/posts/9/hs-cordillera-e-3.webp</image:loc>
+<image:loc>https://dev.elmikewalsh.com/en/media/posts/9/hs-cordillera-e-3.webp</image:loc>
 <image:title><![CDATA[Open book showing chapter title and image on left and text on right.]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://folio.elmike.me/ebook-for-a-chilean-culture-and-heritage-project/</loc>
+<loc>https://dev.elmikewalsh.com/en/ebook-for-a-chilean-culture-and-heritage-project/</loc>
 <lastmod>2023-11-23T16:41:31-03:00</lastmod>
 <image:image>
-<image:loc>https://folio.elmike.me/media/posts/38/huellas-sabores-2.webp</image:loc>
+<image:loc>https://dev.elmikewalsh.com/en/media/posts/38/huellas-sabores-2.webp</image:loc>
 <image:title><![CDATA[Cover of Huellas y Sabores eBook shown in print and phone formats.]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://folio.elmike.me/ebook-for-a-university-gastronomy-course/</loc>
+<loc>https://dev.elmikewalsh.com/en/ebook-for-a-university-gastronomy-course/</loc>
 <lastmod>2023-11-23T16:41:59-03:00</lastmod>
 <image:image>
-<image:loc>https://folio.elmike.me/media/posts/37/ruta-newenche.webp</image:loc>
+<image:loc>https://dev.elmikewalsh.com/en/media/posts/37/ruta-newenche.webp</image:loc>
 <image:title><![CDATA[Cover of Libro Newenche eBook shown in print and phone formats.]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://folio.elmike.me/fast-and-minimalist-personal-site/</loc>
+<loc>https://dev.elmikewalsh.com/en/fast-and-minimalist-personal-site/</loc>
 <lastmod>2023-11-24T15:06:37-03:00</lastmod>
 <image:image>
-<image:loc>https://folio.elmike.me/media/posts/39/sites-general-img-xl.webp</image:loc>
+<image:loc>https://dev.elmikewalsh.com/en/media/posts/39/sites-general-img-xl.webp</image:loc>
 <image:title><![CDATA[Different website views shown on iPad, Macbook and iPhone.]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://folio.elmike.me/media/posts/39/2023-es-elmikewalsh-2.png</image:loc>
+<image:loc>https://dev.elmikewalsh.com/en/media/posts/39/2023-es-elmikewalsh-2.png</image:loc>
 <image:title><![CDATA[Different views of website shown on desktop, mobile and tablet.]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://folio.elmike.me/info/</loc>
+<loc>https://dev.elmikewalsh.com/en/info/</loc>
 <lastmod>2023-11-08T17:28:18-03:00</lastmod>
 </url>
 <url>
-<loc>https://folio.elmike.me/minimalist-site-for-chilean-professor/</loc>
+<loc>https://dev.elmikewalsh.com/en/minimalist-site-for-chilean-professor/</loc>
 <lastmod>2023-11-23T16:36:02-03:00</lastmod>
 <image:image>
-<image:loc>https://folio.elmike.me/media/posts/40/2023-go-1-2.webp</image:loc>
+<image:loc>https://dev.elmikewalsh.com/en/media/posts/40/2023-go-1-2.webp</image:loc>
 <image:title><![CDATA[Various views of website shown on desktop, mobile and tablet.]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://folio.elmike.me/media/posts/40/2023-go-2.png</image:loc>
+<image:loc>https://dev.elmikewalsh.com/en/media/posts/40/2023-go-2.png</image:loc>
 <image:title><![CDATA[Different website views shown on iPad, Macbook and iPhone.]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://folio.elmike.me/print-labels-for-a-hot-sauce-line/</loc>
+<loc>https://dev.elmikewalsh.com/en/print-labels-for-a-hot-sauce-line/</loc>
 <lastmod>2023-11-24T17:48:35-03:00</lastmod>
 <image:image>
-<image:loc>https://folio.elmike.me/media/posts/10/macca-a-2.webp</image:loc>
+<image:loc>https://dev.elmikewalsh.com/en/media/posts/10/macca-a-2.webp</image:loc>
 <image:title><![CDATA[Front view of hot sauce jar with yellow label.]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://folio.elmike.me/media/posts/10/macca-b.webp</image:loc>
+<image:loc>https://dev.elmikewalsh.com/en/media/posts/10/macca-b.webp</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://folio.elmike.me/media/posts/10/macca-e.webp</image:loc>
+<image:loc>https://dev.elmikewalsh.com/en/media/posts/10/macca-e.webp</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://folio.elmike.me/publii-cms-spanish-translation/</loc>
+<loc>https://dev.elmikewalsh.com/en/publii-cms-spanish-translation/</loc>
 <lastmod>2024-01-30T08:13:26-03:00</lastmod>
 <image:image>
-<image:loc>https://folio.elmike.me/media/posts/41/publii-trans-1.png</image:loc>
+<image:loc>https://dev.elmikewalsh.com/en/media/posts/41/publii-trans-1.png</image:loc>
 <image:title><![CDATA[iMac image with Publii logo on screen.]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://folio.elmike.me/media/posts/41/publii-trans-2.png</image:loc>
+<image:loc>https://dev.elmikewalsh.com/en/media/posts/41/publii-trans-2.png</image:loc>
 <image:title><![CDATA[Two iMac screens with coding and Publii logo.]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://folio.elmike.me/tag/delightful-digital-designs/</loc>
+<loc>https://dev.elmikewalsh.com/en/tag/delightful-digital-designs/</loc>
 </url>
 <url>
-<loc>https://folio.elmike.me/yo-walsh/</loc>
+<loc>https://dev.elmikewalsh.com/en/yo-walsh/</loc>
 <lastmod>2023-11-13T19:31:13-03:00</lastmod>
 </url>
 </urlset>
