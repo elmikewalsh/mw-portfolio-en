@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://folio.elmike.me/sitemap.xml
+Sitemap: https://dev.elmikewalsh.com/sitemap.xml
